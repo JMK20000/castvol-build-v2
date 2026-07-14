@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module-scope>
+    <package name="com.android.systemui"/>
+    <package name="com.miui.systemui"/>
+</module-scope>
